@@ -1,8 +1,8 @@
-@echo "from flask import Flask" > flask_app.py
-@echo "app = Flask('__name__')" >> flask_app.py
-@echo "@app.route('/')" >> flask_app.py
-@echo "def home():" >> flask_app.py
-@echo "    return 'funcionou'" >> flask_app.py
+@echo from flask import Flask\
+app = Flask('__name__')\
+@app.route('/')\
+def home():\
+    return 'funcionou' > flask_app.py
 
 call .venv\Scripts\activate
 
