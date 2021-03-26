@@ -4,3 +4,5 @@ mkdir .venv
 call python -m venv .venv
 @echo "Clonagem bem sucedida (acho)"
 pause
+
+.\clonarpython.ps1
