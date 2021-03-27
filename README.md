@@ -4,4 +4,9 @@ Scripts úteis para iniciar e configurar um projeto básico com o Flask
 É pré-requisito ter o Python 3 instalado.
 
 ## Modo de utilizar
-Você deve copiar os scripts úteis para a pasta raiz do seu projeto. Ao executá-los eles prepararão as tarefas a que são destinados. Mas atenção: os scripts com o nome começado em "testar" podem apagar o conteúdo de algum arquivo do seu projeto, por engano, caso já haja algum com nomes similares aos que os scripts criam.
+Na aba Releases você encontrará os scripts compactados para Windows e GNU/Linux.
+Escolha sua versão, faça o download e descompacte os arquivos na raiz do seu projeto.
+
+No caso dos sistemas GNU/Linux, abra o terminal e execute como scripts shell comuns.
+
+No Windows você pode clicar duas vezes no arquivo batch desejado.
